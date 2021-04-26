@@ -8,7 +8,8 @@
   },
   "author": "",
   "engines": {
-    "node": "11.0.0"
+    "node": "11.0.x",
+    
   },
   "dependencies": {
     "body-parser": "^1.19.0",
